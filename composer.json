@@ -1,0 +1,8 @@
+{
+    "name": "nest/component-environment-europe",
+    "description": "environment files",
+    "type": "magento2-component",
+    "require": {
+        "magento/magento-composer-installer": "*"
+    }
+}
